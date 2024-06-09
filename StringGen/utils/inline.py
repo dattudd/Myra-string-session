@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="", url=""
+                text="Owner", url=""
             ),
         ],
     ]
