@@ -5,7 +5,7 @@ from config import SUPPORT_CHAT
 
 keyboard = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
+        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ 𝘀ᴇ𝘀𝘀ɪᴏɴ", callback_data="gensession")],
         [
             InlineKeyboardButton(text="", url=SUPPORT_CHAT),
             InlineKeyboardButton(
