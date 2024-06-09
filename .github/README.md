@@ -88,10 +88,3 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic)</b>
-- <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
-- <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
-
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/dattudd/Myra-string-session/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
-
-━━━━━━━━━━━━━━━━━━━━
