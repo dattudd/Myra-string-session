@@ -19,7 +19,7 @@ gen_key = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v1", callback_data="pyrogram1"),
-            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍ v2", callback_data="pyrogram"),
+            InlineKeyboardButton(text="ᴩʏʀᴏɢʀᴀᴍv2", callback_data="pyrogram"),
         ],
         [InlineKeyboardButton(text="ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon")],
     ]
