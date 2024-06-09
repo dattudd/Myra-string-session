@@ -5,11 +5,11 @@ from config import SUPPORT_CHAT
 
 keyboard = InlineKeyboardMarkup(
     [
-        [InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="gensession")],
+        [InlineKeyboardButton(text="✨ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ✨", callback_data="gensession")],
         [
-            InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="✨sᴜᴘᴘᴏʀᴛ✨", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="owner", url="https://t.me/BTSChinna_op"
+                text="✨𝙊𝙬𝙣𝙚𝙧✨", url="https://t.me/BTSChinna_op"
             ),
         ],
     ]
